@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
-.menu{
-        margin-left: 0;
-        height: 100%;
-        background-color: #f6c76f;
-        position: fixed;
-        top: 0;
-        right: 0;
-}
-
 ul{
     list-style-type: none;
     margin: 5px;
