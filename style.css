@@ -3,7 +3,7 @@
 .menu{
         margin-left: 0;
         height: 100%;
-        background-color: #f6c76f;
+        background-color: #9e7c61;
         position: fixed;
         top: 0;
         right: 0;
@@ -21,11 +21,11 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
-    color: #1cb836;
+    color: #a9a7a7;
 }
 
 body{
-    background-color:#483f8e;
+    background-color:#141c0c;
     font-family: 'Nanum Gothic', sans-serif;
     width: auto;
 }
@@ -33,7 +33,7 @@ body{
 hr{
     margin-bottom: 15px;
     width: auto;
-    border: 1px solid #ac20f5;
+    border: 1px solid #9e7c61;
 }
 
 h1{
@@ -41,7 +41,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
-    color: #f6c76f;
+    color: #7fb24c;
 }
 
 p{
@@ -50,7 +50,7 @@ p{
     margin-bottom: 15px;
     text-align: center;
     max-width: 500px;
-    color: #929cbd;
+    color: #a9a7a7;
 }
 
 #foto{
@@ -60,7 +60,7 @@ p{
     margin-bottom: 15px;
     border-radius: 10px;
     max-width: 50%;
-    box-shadow: 5px 7px grey;
+    box-shadow: 5px 7px #a9a7a7;
     
     
 }
@@ -71,5 +71,9 @@ a{
     margin-bottom: 5px;
     text-align: center;
     text-decoration: none;
-    color: #da17a9;
+    color: #141c0c;
+}
+
+ul.verde a{
+    color: #bcd7a2;
 }
