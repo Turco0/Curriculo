@@ -3,10 +3,14 @@
 .menu{
         margin-left: 0;
         height: 100%;
-        background-color: #9e7c61;
+        background: transparent;
         position: fixed;
         top: 0;
         right: 0;
+}
+
+.menu li{
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,0.711922268907563) 5%, rgba(255,255,255,0.6166841736694677) 50%, rgba(252,70,107,0) 100%);
 }
 
 ul{
@@ -25,15 +29,14 @@ li{
 }
 
 body{
-    background-color:#141c0c;
+    background: linear-gradient(0deg, rgba(82,47,20,1) 0%, rgba(164,96,67,1) 25%, rgba(94,132,168,1) 50%, rgba(144,168,204,1) 75%, rgba(144,168,204,1) 100%);
     font-family: 'Nanum Gothic', sans-serif;
-    width: auto;
 }
 
 hr{
-    margin-bottom: 15px;
-    width: auto;
-    border: 1px solid #9e7c61;
+    margin:0;
+    padding: 0;
+    border: 1px solid #a9a7a7;
 }
 
 h1{
